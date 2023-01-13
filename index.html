@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #card-group{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .card{
+        width: 200px;
+        height: 300px;
+        background-color: rgb(160, 160, 160);
+        color: rgb(255, 255, 255);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 7px;
+    }
+    .card > p{
+        font-size: 2em;
+    }
+</style>
+<body>
+    <div>
+        <label>HP</label>
+        <input type="number">
+        <label>MP</label>
+        <input type="number">
+    </div>
+    <div>
+        <label>確率</label><input id="probabilitynumber" maxlength="100" type="number"><button onclick="lottery()">抽選</button>
+    </div>
+    <div>
+        <p id="probabilityresult"></p>
+    </div>
+    <button onclick="GenerateCard()">カード抽選</button>
+    <h1 id="card-num"></h1>
+    <div id="card-group">
+        <div class="card" onclick="UseCard(this)">
+            <p>10</p>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html> 
