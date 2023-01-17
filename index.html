@@ -19,12 +19,13 @@
         background-color: rgb(160, 160, 160);
         color: rgb(255, 255, 255);
         display: flex;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
         border-radius: 7px;
     }
     .card > p{
-        font-size: 2em;
+        font-size: 1em;
     }
 </style>
 <body>
@@ -43,10 +44,14 @@
     <button onclick="GenerateCard()">カード抽選</button>
     <h1 id="card-num"></h1>
     <div id="card-group">
-        <div class="card" onclick="UseCard(this)">
-            <p>10</p>
-        </div>
+        <!--<div class="card" onclick="UseCard(this)">
+            <p>属性:無属性</p>
+            <p>タイプ:攻撃</p>
+            <p>ステータス:10</p>
+            <p>命中率:100%</p>
+        </div>-->
     </div>
+    <script src="card.js"></script>
     <script src="main.js"></script>
 </body>
 </html> 
