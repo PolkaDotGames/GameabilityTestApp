@@ -4,6 +4,9 @@ function GenerateCard(){
     var card = document.createElement('div')
     var cardnum = Math.floor(Math.random()*120)
     var newcard = carddata[cardnum]
+    //cardnum(表示用)
+    cardnumber = document.createElement('p')
+    cardnumber.innerText = "カード番号:"+cardnum
     //カードの種類 攻撃、守り、魔法　
     var cardclass = document.createElement('p')
     //カードステータス
@@ -44,6 +47,9 @@ function GenerateCard(){
     else if(newcard.type=="grass"){
         cardtype.innerText = "草"
     }
+    else if(newcard.type=="dark"){
+        cardtype.innerText = "闇"
+    }
     else if(newcard.type=="item"){
         cardtype.innerText = "アイテム"
     }
@@ -54,12 +60,12 @@ function GenerateCard(){
 
     card.setAttribute('class','card')
     card.setAttribute('onclick','UseCard(this)')
+    card.appendChild(cardnumber)
     card.appendChild(cardclass)
     card.appendChild(cardtype)
     card.appendChild(cardstatus)
     card.appendChild(cardhitrate)
     document.getElementById('card-group').appendChild(card)
-    document.getElementById('card-num').innerText=Math.floor(Math.random()*120)
 }
 function UseCard(element){
     event.target.remove()
