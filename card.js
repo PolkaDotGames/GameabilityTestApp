@@ -2,6 +2,7 @@ function GetCardJson(){
     
 }
 
+
 var carddata =[
     {
         "name":"", 
@@ -205,67 +206,67 @@ var carddata =[
     },
     {
         "name":"",
-        "status":1,
+        "status":3,
         "type":"fire",
         "class":"attack",
         "plusattack":true,
         "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":1,
-        "type":"fire",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":1,
-        "type":"fire",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"fire",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"fire",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"fire",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
+        "hitrate":70,
         "cost":0
     },
     {
         "name":"",
         "status":3,
+        "type":"fire",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":3,
+        "hitrate":70,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":3,
+        "type":"fire",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":3,
+        "hitrate":70,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":5,
+        "type":"fire",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":50,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":5,
+        "type":"fire",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":50,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":5,
+        "type":"fire",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":50,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":5,
         "type":"fire",
         "class":"attack",
         "plusattack":true,
@@ -275,7 +276,7 @@ var carddata =[
     },
     {
         "name":"",
-        "status":3,
+        "status":5,
         "type":"fire",
         "class":"attack",
         "plusattack":true,
@@ -290,7 +291,7 @@ var carddata =[
         "class":"attack",
         "plusattack":false,
         "sponerate":2,
-        "hitrate":100,
+        "hitrate":40,
         "cost":0
     },
     {
@@ -300,17 +301,17 @@ var carddata =[
         "class":"attack",
         "plusattack":false,
         "sponerate":2,
-        "hitrate":100,
+        "hitrate":40,
         "cost":0
     },
     {
         "name":"",
-        "status":10,
+        "status":12,
         "type":"fire",
         "class":"attack",
         "plusattack":false,
         "sponerate":1,
-        "hitrate":50,
+        "hitrate":25,
         "cost":0
     },
     {
@@ -468,7 +469,7 @@ var carddata =[
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -478,7 +479,7 @@ var carddata =[
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -488,7 +489,7 @@ var carddata =[
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -518,7 +519,7 @@ var carddata =[
         "status":7,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":2,
         "hitrate":100,
         "cost":0
@@ -528,19 +529,19 @@ var carddata =[
         "status":7,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":2,
         "hitrate":100,
         "cost":0
     },
     {
         "name":"",
-        "status":10,
+        "status":9,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":1,
-        "hitrate":50,
+        "hitrate":100,
         "cost":0
     },
     {
