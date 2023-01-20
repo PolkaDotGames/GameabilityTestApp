@@ -3,7 +3,8 @@ function GetCardJson(){
 }
 
 
-var carddata =[
+var carddata =
+[
     {
         "name":"", 
         "status":3,
@@ -667,9 +668,10 @@ var carddata =[
     {
         "name":"",
         "status":1,
+        "status2":1,
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -677,9 +679,10 @@ var carddata =[
     {
         "name":"",
         "status":1,
+        "status2":1,
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -687,18 +690,9 @@ var carddata =[
     {
         "name":"",
         "status":1,
+        "status2":1,
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"grass",
-        "class":"attack",
+        "class":"both",
         "plusattack":false,
         "sponerate":3,
         "hitrate":100,
@@ -707,8 +701,9 @@ var carddata =[
     {
         "name":"",
         "status":2,
+        "status2":3,
         "type":"grass",
-        "class":"attack",
+        "class":"both",
         "plusattack":false,
         "sponerate":3,
         "hitrate":100,
@@ -717,8 +712,9 @@ var carddata =[
     {
         "name":"",
         "status":2,
+        "status2":3,
         "type":"grass",
-        "class":"attack",
+        "class":"both",
         "plusattack":false,
         "sponerate":3,
         "hitrate":100,
@@ -726,20 +722,55 @@ var carddata =[
     },
     {
         "name":"",
-        "status":3,
+        "status":2,
+        "status2":3,
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":2,
+        "status2":5,
+        "type":"grass",
+        "class":"both",
+        "plusattack":false,
         "sponerate":2,
         "hitrate":100,
         "cost":0
     },
     {
         "name":"",
-        "status":3,
+        "status":2,
+        "status2":5,
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":5,
+        "status2":3,
+        "type":"grass",
+        "class":"both",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":5,
+        "status2":3,
+        "type":"grass",
+        "class":"both",
+        "plusattack":false,
         "sponerate":2,
         "hitrate":100,
         "cost":0
@@ -747,28 +778,9 @@ var carddata =[
     {
         "name":"",
         "status":7,
+        "status2":2,
         "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":7,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":10,
-        "type":"grass",
-        "class":"attack",
+        "class":"both",
         "plusattack":false,
         "sponerate":1,
         "hitrate":50,
