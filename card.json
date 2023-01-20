@@ -530,13 +530,18 @@
         "cost":0
     },
     {
+<<<<<<< HEAD
         "name":"水属性５",
         "status":10,
+=======
+        "name":"",
+        "status":9,
+>>>>>>> 203001d467a13c1c913510d15e786dd60c8d5497
         "type":"water",
         "class":"attack",
         "plusattack":true,
         "sponerate":1,
-        "hitrate":50,
+        "hitrate":100,
         "cost":0
     },
     {
@@ -662,9 +667,10 @@
     {
         "name":"草属性１",
         "status":1,
+        "status2":1,
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -672,9 +678,10 @@
     {
         "name":"草属性１",
         "status":1,
+        "status2":1,
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -682,7 +689,9 @@
     {
         "name":"草属性１",
         "status":1,
+        "status2":1,
         "type":"grass",
+<<<<<<< HEAD
         "class":"attack",
         "plusattack":true,
         "sponerate":3,
@@ -694,6 +703,9 @@
         "status":2,
         "type":"grass",
         "class":"attack",
+=======
+        "class":"both",
+>>>>>>> 203001d467a13c1c913510d15e786dd60c8d5497
         "plusattack":false,
         "sponerate":3,
         "hitrate":100,
@@ -702,8 +714,9 @@
     {
         "name":"草属性２",
         "status":2,
+        "status2":3,
         "type":"grass",
-        "class":"attack",
+        "class":"both",
         "plusattack":false,
         "sponerate":3,
         "hitrate":100,
@@ -712,29 +725,80 @@
     {
         "name":"草属性２",
         "status":2,
+        "status2":3,
         "type":"grass",
-        "class":"attack",
+        "class":"both",
         "plusattack":false,
         "sponerate":3,
         "hitrate":100,
         "cost":0
     },
     {
+<<<<<<< HEAD
         "name":"草属性３",
         "status":3,
+=======
+        "name":"",
+        "status":2,
+        "status2":3,
+>>>>>>> 203001d467a13c1c913510d15e786dd60c8d5497
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":2,
+        "status2":5,
+        "type":"grass",
+        "class":"both",
+        "plusattack":false,
         "sponerate":2,
         "hitrate":100,
         "cost":0
     },
     {
+<<<<<<< HEAD
         "name":"草属性３",
         "status":3,
+=======
+        "name":"",
+        "status":2,
+        "status2":5,
+>>>>>>> 203001d467a13c1c913510d15e786dd60c8d5497
         "type":"grass",
-        "class":"attack",
-        "plusattack":true,
+        "class":"both",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+<<<<<<< HEAD
+        "name":"草属性４",
+        "status":7,
+=======
+        "name":"",
+        "status":5,
+        "status2":3,
+>>>>>>> 203001d467a13c1c913510d15e786dd60c8d5497
+        "type":"grass",
+        "class":"both",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"",
+        "status":5,
+        "status2":3,
+        "type":"grass",
+        "class":"both",
+        "plusattack":false,
         "sponerate":2,
         "hitrate":100,
         "cost":0
@@ -742,17 +806,9 @@
     {
         "name":"草属性４",
         "status":7,
+        "status2":2,
         "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"草属性４",
-        "status":7,
-        "type":"grass",
+<<<<<<< HEAD
         "class":"attack",
         "plusattack":false,
         "sponerate":2,
@@ -764,6 +820,9 @@
         "status":10,
         "type":"grass",
         "class":"attack",
+=======
+        "class":"both",
+>>>>>>> 203001d467a13c1c913510d15e786dd60c8d5497
         "plusattack":false,
         "sponerate":1,
         "hitrate":50,
