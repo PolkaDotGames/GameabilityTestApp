@@ -1,6 +1,6 @@
 [
     {
-        "name":"", 
+        "name":"無属性１", 
         "status":3,
         "type":"none",
         "class":"attack",
@@ -10,7 +10,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性１",
         "status":3,
         "type":"none",
         "class":"attack",
@@ -20,7 +20,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性２",
         "status":5,
         "type":"none",
         "class":"attack",
@@ -30,7 +30,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性２",
         "status":5,
         "type":"none",
         "class":"attack",
@@ -40,7 +40,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性３",
         "status":7,
         "type":"none",
         "class":"attack",
@@ -50,7 +50,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性３",
         "status":7,
         "type":"none",
         "class":"attack",
@@ -60,7 +60,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性４",
         "status":10,
         "type":"none",
         "class":"attack",
@@ -70,7 +70,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性４",
         "status":10,
         "type":"none",
         "class":"attack",
@@ -80,7 +80,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性５",
         "status":30,
         "type":"none",
         "class":"attack",
@@ -90,7 +90,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性６",
         "status":1,
         "type":"none",
         "class":"defense",
@@ -100,7 +100,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性６",
         "status":1,
         "type":"none",
         "class":"defense",
@@ -110,7 +110,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性６",
         "status":1,
         "type":"none",
         "class":"defense",
@@ -120,7 +120,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性７",
         "status":3,
         "type":"none",
         "class":"defense",
@@ -130,7 +130,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性７",
         "status":3,
         "type":"none",
         "class":"defense",
@@ -140,7 +140,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性７",
         "status":3,
         "type":"none",
         "class":"defense",
@@ -150,7 +150,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性８",
         "status":5,
         "type":"none",
         "class":"defense",
@@ -160,7 +160,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性８",
         "status":5,
         "type":"none",
         "class":"defense",
@@ -170,7 +170,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性９",
         "status":7,
         "type":"none",
         "class":"defense",
@@ -180,7 +180,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性９",
         "status":7,
         "type":"none",
         "class":"defense",
@@ -190,7 +190,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性１０",
         "status":10,
         "type":"none",
         "class":"defense",
@@ -200,7 +200,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性１",
         "status":3,
         "type":"fire",
         "class":"attack",
@@ -210,7 +210,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性１",
         "status":3,
         "type":"fire",
         "class":"attack",
@@ -220,7 +220,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性１",
         "status":3,
         "type":"fire",
         "class":"attack",
@@ -230,7 +230,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性２",
         "status":5,
         "type":"fire",
         "class":"attack",
@@ -240,7 +240,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性２",
         "status":5,
         "type":"fire",
         "class":"attack",
@@ -250,7 +250,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性２",
         "status":5,
         "type":"fire",
         "class":"attack",
@@ -260,7 +260,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性３",
         "status":5,
         "type":"fire",
         "class":"attack",
@@ -270,7 +270,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性３",
         "status":5,
         "type":"fire",
         "class":"attack",
@@ -280,7 +280,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性４",
         "status":7,
         "type":"fire",
         "class":"attack",
@@ -290,7 +290,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性４",
         "status":7,
         "type":"fire",
         "class":"attack",
@@ -300,7 +300,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性５",
         "status":12,
         "type":"fire",
         "class":"attack",
@@ -310,7 +310,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性６",
         "status":1,
         "type":"fire",
         "class":"defense",
@@ -320,7 +320,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性６",
         "status":1,
         "type":"fire",
         "class":"defense",
@@ -330,7 +330,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性６",
         "status":1,
         "type":"fire",
         "class":"defense",
@@ -340,7 +340,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性７",
         "status":2,
         "type":"fire",
         "class":"defense",
@@ -350,7 +350,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性７",
         "status":2,
         "type":"fire",
         "class":"defense",
@@ -360,7 +360,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性７",
         "status":2,
         "type":"fire",
         "class":"defense",
@@ -370,7 +370,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性８",
         "status":3,
         "type":"fire",
         "class":"defense",
@@ -380,7 +380,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性８",
         "status":3,
         "type":"fire",
         "class":"defense",
@@ -390,7 +390,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性９",
         "status":5,
         "type":"fire",
         "class":"defense",
@@ -400,7 +400,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性９",
         "status":5,
         "type":"fire",
         "class":"defense",
@@ -410,7 +410,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性１０",
         "status":7,
         "type":"fire",
         "class":"defense",
@@ -420,7 +420,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火属性１０",
         "status":7,
         "type":"fire",
         "class":"defense",
@@ -430,7 +430,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性１",
         "status":1,
         "type":"water",
         "class":"attack",
@@ -440,7 +440,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性１",
         "status":1,
         "type":"water",
         "class":"attack",
@@ -450,7 +450,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性１",
         "status":1,
         "type":"water",
         "class":"attack",
@@ -460,37 +460,37 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性２",
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性２",
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性２",
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性３",
         "status":3,
         "type":"water",
         "class":"attack",
@@ -500,7 +500,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性３",
         "status":3,
         "type":"water",
         "class":"attack",
@@ -510,29 +510,259 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性４",
         "status":7,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":2,
         "hitrate":100,
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性４",
         "status":7,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":2,
         "hitrate":100,
         "cost":0
     },
     {
-        "name":"",
+        "name":"水属性５",
         "status":10,
         "type":"water",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":1,
+        "hitrate":50,
+        "cost":0
+    },
+    {
+        "name":"水属性６",
+        "status":1,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性６",
+        "status":1,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性６",
+        "status":1,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性７",
+        "status":2,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性７",
+        "status":2,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性７",
+        "status":2,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性８",
+        "status":3,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性８",
+        "status":3,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性９",
+        "status":5,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性９",
+        "status":5,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性１０",
+        "status":7,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"水属性１０",
+        "status":7,
+        "type":"water",
+        "class":"defense",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性１",
+        "status":1,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性１",
+        "status":1,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性１",
+        "status":1,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性２",
+        "status":2,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性２",
+        "status":2,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性２",
+        "status":2,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":3,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性３",
+        "status":3,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性３",
+        "status":3,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":true,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性４",
+        "status":7,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性４",
+        "status":7,
+        "type":"grass",
+        "class":"attack",
+        "plusattack":false,
+        "sponerate":2,
+        "hitrate":100,
+        "cost":0
+    },
+    {
+        "name":"草属性５",
+        "status":10,
+        "type":"grass",
         "class":"attack",
         "plusattack":false,
         "sponerate":1,
@@ -540,237 +770,7 @@
         "cost":0
     },
     {
-        "name":"",
-        "status":1,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":1,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":1,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":3,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":3,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":5,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":5,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":7,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":7,
-        "type":"water",
-        "class":"defense",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":1,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":1,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":1,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":2,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":3,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":3,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":3,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":true,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":7,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":7,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":2,
-        "hitrate":100,
-        "cost":0
-    },
-    {
-        "name":"",
-        "status":10,
-        "type":"grass",
-        "class":"attack",
-        "plusattack":false,
-        "sponerate":1,
-        "hitrate":50,
-        "cost":0
-    },
-    {
-        "name":"",
+        "name":"草属性６",
         "status":1,
         "type":"grass",
         "class":"defense",
@@ -780,7 +780,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性６",
         "status":1,
         "type":"grass",
         "class":"defense",
@@ -790,7 +790,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性６",
         "status":1,
         "type":"grass",
         "class":"defense",
@@ -800,7 +800,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性７",
         "status":2,
         "type":"grass",
         "class":"defense",
@@ -810,7 +810,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性７",
         "status":2,
         "type":"grass",
         "class":"defense",
@@ -820,7 +820,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性７",
         "status":2,
         "type":"grass",
         "class":"defense",
@@ -830,7 +830,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性８",
         "status":3,
         "type":"grass",
         "class":"defense",
@@ -840,7 +840,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性８",
         "status":3,
         "type":"grass",
         "class":"defense",
@@ -850,7 +850,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性８",
         "status":3,
         "type":"grass",
         "class":"defense",
@@ -860,7 +860,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性９",
         "status":5,
         "type":"grass",
         "class":"defense",
@@ -870,7 +870,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性９",
         "status":5,
         "type":"grass",
         "class":"defense",
@@ -880,7 +880,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性１０",
         "status":7,
         "type":"grass",
         "class":"defense",
@@ -890,7 +890,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"草属性１０",
         "status":7,
         "type":"grass",
         "class":"defense",
@@ -900,7 +900,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"闇属性１",
         "status":1,
         "type":"dark",
         "class":"attack",
@@ -910,7 +910,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"闇属性１",
         "status":1,
         "type":"dark",
         "class":"attack",
@@ -920,7 +920,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"闇属性１",
         "status":1,
         "type":"dark",
         "class":"attack",
@@ -930,7 +930,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"闇属性２",
         "status":5,
         "type":"dark",
         "class":"attack",
@@ -940,7 +940,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"闇属性２",
         "status":5,
         "type":"dark",
         "class":"attack",
@@ -950,7 +950,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"闇属性３",
         "status":7,
         "type":"dark",
         "class":"attack",
@@ -960,7 +960,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"闇属性３",
         "status":10,
         "type":"dark",
         "class":"attack",
@@ -970,7 +970,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"アイテム１",
         "status":5,
         "type":"item",
         "class":"HPheal",
@@ -980,7 +980,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"アイテム２",
         "status":10,
         "type":"item",
         "class":"HPheal",
@@ -990,7 +990,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"アイテム３",
         "status":5,
         "type":"item",
         "class":"MPheal",
@@ -1000,7 +1000,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"アイテム４",
         "status":10,
         "type":"item",
         "class":"MPheal",
@@ -1010,7 +1010,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"アイテム５",
         "status":15,
         "type":"item",
         "class":"MPheal",
@@ -1020,7 +1020,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"火魔法１",
         "status":10,
         "type":"fire",
         "class":"attack",
@@ -1030,7 +1030,7 @@
         "cost":7
     },
     {
-        "name":"",
+        "name":"火魔法１",
         "status":10,
         "type":"fire",
         "class":"attack",
@@ -1040,7 +1040,7 @@
         "cost":7
     },
     {
-        "name":"",
+        "name":"水魔法１",
         "status":10,
         "type":"water",
         "class":"attack",
@@ -1050,7 +1050,7 @@
         "cost":7
     },
     {
-        "name":"",
+        "name":"水魔法１",
         "status":10,
         "type":"water",
         "class":"attack",
@@ -1060,7 +1060,7 @@
         "cost":7
     },
     {
-        "name":"",
+        "name":"草魔法１",
         "status":10,
         "type":"grass",
         "class":"attack",
@@ -1070,7 +1070,7 @@
         "cost":7
     },
     {
-        "name":"",
+        "name":"草魔法１",
         "status":10,
         "type":"grass",
         "class":"attack",
@@ -1080,7 +1080,7 @@
         "cost":7
     },
     {
-        "name":"",
+        "name":"火魔法２",
         "status":5,
         "type":"fire",
         "class":"attack",
@@ -1090,7 +1090,7 @@
         "cost":5
     },
     {
-        "name":"",
+        "name":"火魔法２",
         "status":5,
         "type":"fire",
         "class":"attack",
@@ -1100,7 +1100,7 @@
         "cost":5
     },
     {
-        "name":"",
+        "name":"水魔法２",
         "status":5,
         "type":"water",
         "class":"attack",
@@ -1110,7 +1110,7 @@
         "cost":5
     },
     {
-        "name":"",
+        "name":"水魔法２",
         "status":5,
         "type":"water",
         "class":"attack",
@@ -1120,7 +1120,7 @@
         "cost":5
     },
     {
-        "name":"",
+        "name":"草魔法２",
         "status":5,
         "type":"grass",
         "class":"attack",
@@ -1130,7 +1130,7 @@
         "cost":5
     },
     {
-        "name":"",
+        "name":"草魔法２",
         "status":5,
         "type":"grass",
         "class":"attack",
@@ -1140,7 +1140,7 @@
         "cost":10
     },
     {
-        "name":"",
+        "name":"闇魔法１",
         "status":12,
         "type":"dark",
         "class":"attack",
@@ -1150,7 +1150,7 @@
         "cost":10
     },
     {
-        "name":"",
+        "name":"闇魔法１",
         "status":12,
         "type":"dark",
         "class":"attack",
@@ -1160,7 +1160,7 @@
         "cost":10
     },
     {
-        "name":"",
+        "name":"回復魔法１",
         "status":10,
         "type":"none",
         "class":"HPheal",
@@ -1170,7 +1170,7 @@
         "cost":7
     },
     {
-        "name":"",
+        "name":"無属性１１",
         "status":8,
         "status2":4,
         "type":"none",
@@ -1181,7 +1181,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性１２",
         "status":2,
         "status2":9,
         "type":"none",
@@ -1192,7 +1192,7 @@
         "cost":0
     },
     {
-        "name":"",
+        "name":"無属性１３",
         "explanation":"現在の体力-1の2倍のダメージを与えることができる。使用後、体力は1になる。",
         "status":0,
         "type":"none",
