@@ -464,7 +464,7 @@
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -474,7 +474,7 @@
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -484,7 +484,7 @@
         "status":2,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":3,
         "hitrate":100,
         "cost":0
@@ -514,7 +514,7 @@
         "status":7,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":2,
         "hitrate":100,
         "cost":0
@@ -524,19 +524,19 @@
         "status":7,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":2,
         "hitrate":100,
         "cost":0
     },
     {
         "name":"",
-        "status":10,
+        "status":9,
         "type":"water",
         "class":"attack",
-        "plusattack":false,
+        "plusattack":true,
         "sponerate":1,
-        "hitrate":50,
+        "hitrate":100,
         "cost":0
     },
     {
