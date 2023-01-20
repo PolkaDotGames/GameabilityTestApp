@@ -39,21 +39,23 @@ function GenerateCard(){
         cardtype.innerText = "無属性"
     }
     else if(newcard.type=="fire"){
-        cardtype.innerText = "火"
+        cardtype.innerText = "火属性"
     }
     else if(newcard.type=="water"){
-        cardtype.innerText = "水"
+        cardtype.innerText = "水属性"
     }
     else if(newcard.type=="grass"){
-        cardtype.innerText = "草"
+        cardtype.innerText = "草属性"
     }
     else if(newcard.type=="dark"){
-        cardtype.innerText = "闇"
+        cardtype.innerText = "闇属性"
     }
     else if(newcard.type=="item"){
         cardtype.innerText = "アイテム"
     }
-   
+    //カードの消費MP
+    var cardcost = document.createElement('p')
+    cardcost.innerText = "消費MP"+newcard.cost
     //カードの命中率
     var cardhitrate = document.createElement('p')
     cardhitrate.innerText ="命中率"+ newcard.hitrate + "%"
@@ -64,6 +66,7 @@ function GenerateCard(){
     card.appendChild(cardclass)
     card.appendChild(cardtype)
     card.appendChild(cardstatus)
+    card.appendChild(cardcost)
     card.appendChild(cardhitrate)
     document.getElementById('card-group').appendChild(card)
 }
