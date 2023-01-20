@@ -4,6 +4,7 @@ function GenerateCard(){
     var card = document.createElement('div')
     var cardnum = Math.floor(Math.random()*120)
     var newcard = carddata[cardnum]
+    
     //cardnum(表示用)
     cardnumber = document.createElement('p')
     cardnumber.innerText = "カード番号:"+cardnum
@@ -53,6 +54,8 @@ function GenerateCard(){
     else if(newcard.type=="item"){
         cardtype.innerText = "アイテム"
     }
+    var cardname = document.createElement('p')
+    cardname.innerText = newcard.name
     //カードの消費MP
     var cardcost = document.createElement('p')
     cardcost.innerText = "消費MP"+newcard.cost
@@ -62,6 +65,7 @@ function GenerateCard(){
 
     card.setAttribute('class','card')
     card.setAttribute('onclick','UseCard(this)')
+    card.appendChild(cardname)
     card.appendChild(cardnumber)
     card.appendChild(cardclass)
     card.appendChild(cardtype)
